@@ -63,19 +63,6 @@ ChatGPT和Claude这类大语言模型，知识库是固定的。它们可能对�
 
 怎么办?用海外虚拟银行卡。
 
-### 第一步：注册虚拟银行卡
-
-目前最方便的方式是使用WildCard虚拟卡。这张卡不仅可以订阅Perplexity，还能用来升级ChatGPT Plus、Claude Pro等其他海外服务。
-
-注册地址：https://bewildcard.com/i/GOGPT
-
-![WildCard虚拟银行卡注册页面](image/18432957132676.webp)
-
-注册流程很快，基本一分钟就能搞定。注册完成后，你会得到一张虚拟卡的完整信息，包括卡号、有效期、CVV等。
-
-![虚拟卡详细信息展示](image/4985209378145.webp)
-
-记住这些信息，后面绑卡的时候要用。
 
 ### 第二步：订阅升级Perplexity
 
